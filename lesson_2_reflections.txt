@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It's an empty repository with only the files in it, if there's some and the .git file wich is necessary for initalize the repository and in order to select the directory as a git valid repository
